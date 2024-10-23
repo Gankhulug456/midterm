@@ -282,6 +282,7 @@ body{
 }
 
 .text_circle {
+    cursor: pointer;
     display: none; 
     position: absolute;
     top: 45%;
